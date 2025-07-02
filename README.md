@@ -1,2 +1,9 @@
-# -Number-Guessing-Game-
-A simple C program where the player guesses a number between 1 and 100, with hints after each guess. Great for practicing loops, conditionals, and random numbers. 
+# 🎮 Number Guessing Game in C
+
+This is a simple command-line number guessing game written in C. The computer randomly selects a number between 1 and 100, and you have to guess it.
+
+## 🔧 How to Compile and Run
+
+### Compile
+```bash
+gcc main.c -o guess
